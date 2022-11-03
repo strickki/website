@@ -1,4 +1,4 @@
-###### Evaluation Plan
+##### Bitonic Sort Pseudocode
 - measure performance of a sequential sort
   - Increasing input sizes & constant input sizes
 

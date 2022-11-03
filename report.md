@@ -10,7 +10,7 @@
   - Increase number of threads with a constant problem size
   - Increase number of threads with increasing problem size 
 
-###### Bitonic Sort Pseudocode
+Bitonic Sort Pseudocode
 **Step1:**
 - Create bitonic sequence from input
   - Bitonic sequence: a sequence that starts increasing then becomes strictly decreasing 
